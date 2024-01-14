@@ -10,10 +10,9 @@
 - Exploring into the world of programming languages and frameworks.
 
 🛠️ **Tech Stack:**
-- Languages: [Python, HtmlCss, Basic of Go, Javascript]
-- Databases: [I know some dbms like, MongoDB, Sqlite3]
-- GFX Applications: [Photoshop 2022, Adobe After effect , Picsart , Capcut]
-
+- Langauges I'm learning:
+  ![https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white]() , ![https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white]() , ![https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white]()
+   
 🤝 **Connect with Me:**
 - Discord: [Winkle Community 🤖](https://discord.gg/winklebot)
 - Github: [Github](https://github.com/UjjwalxD)
