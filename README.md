@@ -11,7 +11,8 @@
 
 🛠️ **Tech Stack:**
 - Languages: [Python, HtmlCss, Basic of Go, Javascript]
-- Frameworks: [MongoDB, ]
+- Databases: [I know some dbms like, MongoDB, Sqlite3]
+- GFX Applications: [Photoshop 2022, Adobe After effect , Picsart , Capcut]
 
 🤝 **Connect with Me:**
 - Discord: [Winkle Community 🤖](https://discord.gg/winklebot)
