@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.discordapp.com/emojis/1217431858128879636.webp?size=128&quality=lossless" height="40" alt="go logo"  />
   <img width="12" />
+  <img src="https://cdn.discordapp.com/emojis/753851443093438545.webp?size=128&quality=lossless" height="40" alt="wave logo"  />
+  <img width="12" />
 </div>
 
 ###
