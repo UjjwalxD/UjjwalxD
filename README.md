@@ -44,6 +44,10 @@
   <img width="12" />
   <img src="https://cdn.discordapp.com/emojis/1217431324424540173.webp?size=128&quality=lossless" height="40" alt="mongo logo"  />
   <img width="12" />
+  <img src="https://cdn.discordapp.com/emojis/1217431616855609344.webp?size=128&quality=lossless" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.discordapp.com/emojis/1217431858128879636.webp?size=128&quality=lossless" height="40" alt="go logo"  />
+  <img width="12" />
 </div>
 
 ###
