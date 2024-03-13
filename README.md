@@ -40,6 +40,10 @@
   <img width="12" />
   <img src="https://cdn.discordapp.com/emojis/1217430565146329108.webp?size=128&quality=lossless" height="40" alt="discord.py logo"  />
   <img width="12" />
+  <img src="https://cdn.discordapp.com/emojis/1217431141301223515.webp?size=128&quality=lossless" height="40" alt="ps logo"  />
+  <img width="12" />
+  <img src="https://cdn.discordapp.com/emojis/1217431324424540173.webp?size=128&quality=lossless" height="40" alt="mongo logo"  />
+  <img width="12" />
 </div>
 
 ###
