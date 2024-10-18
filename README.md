@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  👋 Hey, I'm Ujjwal From Gorakhpur.
+   **Profile Views: **
   
   <img src="https://profile-counter.glitch.me/UjjwalxD/count.svg?"  />
 </div>
