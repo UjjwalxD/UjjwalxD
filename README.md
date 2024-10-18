@@ -7,6 +7,7 @@
 ###
 
 <div align="center">
+  <h1>Profile Views: </h1>
   <img src="https://profile-counter.glitch.me/UjjwalxD/count.svg?"  />
 </div>
 
