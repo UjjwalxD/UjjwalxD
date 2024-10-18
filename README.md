@@ -11,7 +11,7 @@
 </div>
 
 ###
-
+<h1> Skills </h1>
 <br clear="both">
 
 <div align="center">
