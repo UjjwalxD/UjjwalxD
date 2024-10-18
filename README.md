@@ -11,7 +11,7 @@
 </div>
 
 ###
-<h1 style="text-align: center;">Skills</h1>
+<h1 style="text-align: center;"></h1>
 <br clear="both">
 
 <div align="center">
